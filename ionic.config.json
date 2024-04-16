@@ -1,0 +1,7 @@
+{
+  "name": "Dailies IRL",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
